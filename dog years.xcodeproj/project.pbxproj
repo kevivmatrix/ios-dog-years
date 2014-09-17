@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E26B8B2119C991580059089F /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26B8B2019C991580059089F /* AgeOfLaika.jpg */; };
 		E28B1F5B19C99067008FD1F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28B1F5A19C99067008FD1F0 /* AppDelegate.swift */; };
 		E28B1F5D19C99067008FD1F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28B1F5C19C99067008FD1F0 /* ViewController.swift */; };
 		E28B1F6019C99067008FD1F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E28B1F5E19C99067008FD1F0 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E26B8B2019C991580059089F /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 		E28B1F5519C99067008FD1F0 /* dog years.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dog years.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E28B1F5919C99067008FD1F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E28B1F5A19C99067008FD1F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 		E28B1F5819C99067008FD1F0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E26B8B2019C991580059089F /* AgeOfLaika.jpg */,
 				E28B1F5919C99067008FD1F0 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E28B1F6019C99067008FD1F0 /* Main.storyboard in Resources */,
+				E26B8B2119C991580059089F /* AgeOfLaika.jpg in Resources */,
 				E28B1F6519C99067008FD1F0 /* LaunchScreen.xib in Resources */,
 				E28B1F6219C99067008FD1F0 /* Images.xcassets in Resources */,
 			);
@@ -405,6 +409,7 @@
 				E28B1F7619C99067008FD1F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E28B1F7719C99067008FD1F0 /* Build configuration list for PBXNativeTarget "dog yearsTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				E28B1F7919C99067008FD1F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
